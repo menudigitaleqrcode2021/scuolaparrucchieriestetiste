@@ -1,0 +1,6 @@
+HOME : = http://www.scuolaparrucchieriestetiste.it/index.html
+CHI SIAMO = http://www.scuolaparrucchieriestetiste.it/chi-siamo.html
+CORSI = http://www.scuolaparrucchieriestetiste.it/corsi.html
+DOWNLOAD = http://www.scuolaparrucchieriestetiste.it/download.html
+GALLERY = http://www.scuolaparrucchieriestetiste.it/blog.html
+CONTATTI = http://www.scuolaparrucchieriestetiste.it/contact.html
